@@ -1,9 +1,10 @@
 ## Hi there 👋, my name is Spicy
 ### I am a FullStack Web Developer and Designer
-![I am a FullStack Web Developer and Designer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+<!-- ![I am a FullStack Web Developer and Designer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
 <!-- (https://miro.medium.com/max/828/0*goaFvkjpQM-0p0h6.) -->
+![I am a FullStack Web Developer and Designer](https://miro.medium.com/max/828/0*goaFvkjpQM-0p0h6.)
 
-I am Remilekun from Nigeria, and I absolutely love coding
+I am Remilekun from Nigeria, and I absolutely love coding!
 
 <!-- Skills: REACT / JS / HTML / CSS / SASS -->
 
