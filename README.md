@@ -5,7 +5,7 @@
 ![I am a FullStack Web Developer and Designer](https://miro.medium.com/max/828/0*goaFvkjpQM-0p0h6.)
 (https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)
 I am Remilekun, a web developer and UI/UX designer based in Nigeria.
-I Work with passion, design for love, and love the money!
+I work with passion and design for love!
 
 <!-- Skills: REACT / JS / HTML / CSS / SASS -->
 
@@ -41,6 +41,14 @@ I Work with passion, design for love, and love the money!
 - 🔭 I’m currently working on this page. 
 - 📫 How to reach me: Just say "Hi" via any of my social media 
 
+<h3 align="left">Connect with me</h3>
+<!-- <p align="left">
+  <a href="https://twitter.com/oluwa_seguun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oluwa_seguun" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/victor segun michael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victor segun michael" height="30" width="40" /></a>
+  <a href="https://fb.com/oluwasegun michael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="oluwasegun michael" height="30" width="40" /></a>
+  <a href="https://instagram.com/sheg_reeds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sheg_reeds" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/c/sheg_reeds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sheg_reeds" height="30" width="40" /></a>
+</p> -->
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RemmySpicy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/RemmySpicy/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/RemmySpicy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/RemmySpicy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/@RemmySpicy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/RemmySpicy)  
 
